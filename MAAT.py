@@ -18,7 +18,6 @@ def triangle(x: int,y: int,z: int):
         else:
             path.append(3)
             #print("isosceles")
-    #return x, y, z
     return path
 
 
