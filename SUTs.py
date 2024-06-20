@@ -16,7 +16,6 @@ def triangle(x: int,y: int,z: int):
             path.append(9)
             #print("isosceles")
     path.append(5)
-    #return x, y, z
     return path
 
 cfg = [[3,4,5],[3,5,6,7],[3,5,6,9]]
