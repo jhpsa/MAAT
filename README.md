@@ -1,2 +1,2 @@
-# Códigos utilizados no Trabalho de Conclusão de Curso "Análise de algoritmos genéticos e aprendizado por reforço para geração de casos de teste de software" apresentado na UFRJ no semestre 2024.1
-# No arquivo MAAT.py encontra-se uma implementação do algoritmo genético gerador de casos de teste baseado no algoritmo MAAT descrito no artigo “Automation of software test data generation using genetic algorithm and reinforcement learning”, publicado por Mehdi Esnaashari e Amir Hossein Damia
+# "Análise de algoritmos genéticos e aprendizado por reforço para geração de casos de teste de software" - UFRJ 2024.1
+No arquivo MAAT.py encontra-se uma implementação do algoritmo genético gerador de casos de teste baseado no algoritmo MAAT descrito no artigo “Automation of software test data generation using genetic algorithm and reinforcement learning”, publicado por Mehdi Esnaashari e Amir Hossein Damia
